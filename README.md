@@ -42,7 +42,8 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 4.2 Data Format(Storage Format)
 
 - Open Table Formats, CSV, JSON, AVRO, or Parquet file formats.
-- Delta Lake(DataBricks y Linux Foundation), Apache Iceberg(el de facto standard open source rest protocol....de la gente de Netflix), Apache Hudi, Tabular(adquirio DataBricks), Data Lake UniForm(DataBricks)
+- Delta Lake(DataBricks y Linux Foundation), Apache Iceberg(el de facto standard open source rest protocol....de la gente de Netflix),
+  Apache Hudi, Tabular(adquirio DataBricks), Data Lake UniForm(DataBricks)
 - OneTable(Apache XTable) targets 'interoperability' among different lakehouse table formats
 
 
