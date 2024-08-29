@@ -34,7 +34,7 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 
 4. Data Architecture Knowledge
 
-4.1 Data Storage
+4.1 Data Storage (principalmente basados en Object Storage/ FileSystem)
 
 - Basados en S3: Minio, AWS S3, etc
 
@@ -63,6 +63,7 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 4.5 Data Catalog
 
 - Spark Catalog (integrado con Apache Spark)
+- Polaris 
 
 
 4.6 Metastore
