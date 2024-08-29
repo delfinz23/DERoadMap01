@@ -78,6 +78,11 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 4.7 SQL Gateway
 
 - Apache Kyuubi
+  
+
+5. Kubernets/OKD/OpenShift/qovery
+
+6. Proveedor Nube: AWS/GCP/AZURE, etc
 
 
 Datos Adicionales:
@@ -85,10 +90,4 @@ Datos Adicionales:
 * Apache Spark reemplaza a Map Reduce
 * Los que apuestan por Delta Lake ofrecen transacciones ACID para sus data lakes.
 * S3 es la evolucion de Apache Hadoop
-
-  
-
-5. Kubernets/OKD/OpenShift/qovery
-
-6. Proveedor Nube: AWS/GCP/AZURE, etc
 
