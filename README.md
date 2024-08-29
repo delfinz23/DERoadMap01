@@ -32,9 +32,9 @@ It includes learning about OLAP vs OLTP, Dimension Table, Extract Transform Load
 ER Modeling, or Dimension Modelling such as understanding fact and dimension tables
 
 
-4. Data Architecture Knowledge 
+4. Data Architecture Knowledge (Plataforma de Datos)
 
-4.1 Data Storage (principalmente basados en Object Storage/ FileSystem) (Plataforma de Datos)
+4.1 Data Storage (principalmente basados en Object Storage/ FileSystem) 
 
 - Basados en S3: Minio, AWS S3, etc
 
