@@ -32,7 +32,7 @@ It includes learning about OLAP vs OLTP, Dimension Table, Extract Transform Load
 ER Modeling, or Dimension Modelling such as understanding fact and dimension tables
 
 
-4. Data Architecture Knowledge
+4. Data Architecture Knowledge (Plataforma de Datos)
 
 4.1 Data Storage (principalmente basados en Object Storage/ FileSystem)
 
@@ -42,11 +42,11 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 4.2 Data Format(Storage Format)
 
 - Open Table Formats, CSV, JSON, AVRO, or Parquet file formats.
-- Delta Lake(DataBricks), Apache Iceberg, Apache Hudi
+- Delta Lake(DataBricks), Apache Iceberg(el de facto standard open source rest protocol), Apache Hudi
 - OneTable(Apache XTable) targets 'interoperability' among different lakehouse table formats
 
 
-4.3 Data Processing Engine
+4.3 Data Processing Engine (Compute Engines)
 
 - batch processing: pyspark
 - real time processing: kafka/confluent
@@ -60,10 +60,11 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 
 
 
-4.5 Data Catalog
+4.5 Data Catalog (catalogos pensados para trabajar con diferentes clouds, formatos de datos y plataforma de datos)
 
 - Spark Catalog (integrado con Apache Spark)
-- Polaris 
+- Polaris (apache license....snowflake)
+- Unity Catalog (apahce license....databricks)
 
 
 4.6 Metastore
