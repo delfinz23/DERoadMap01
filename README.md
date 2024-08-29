@@ -76,6 +76,13 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 - Apache Kyuubi
 
 
+Datos Adicionales:
+* DataBricks fue fundado por los creadores de Apache Spark, DataBricks es el pionero de una arquitectura de lakehouse, DataBricks tambien integra funcionalidades de AutoML(h2o.ai, pycaret, etc) y MLFlow
+* Apache Spark reemplaza a Map Reduce
+* Los que apuestan por Delta Lake ofrecen transacciones ACID para sus data lakes.
+
+  
+
 5. Kubernets/OKD/OpenShift/qovery
 
 6. Proveedor Nube: AWS/GCP/AZURE, etc
