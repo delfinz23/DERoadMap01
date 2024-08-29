@@ -63,7 +63,7 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 4.5 Data Catalog (catalogos pensados para trabajar con diferentes clouds, formatos de datos y plataforma de datos)
 
 - Spark Catalog (integrado con Apache Spark)
-- Polaris (apache license....snowflake)
+- Polaris (completamente basado en Apache Iceberg, tb apache license....snowflake)
 - Unity Catalog (apahce license....databricks)
 
 
