@@ -48,7 +48,7 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 
 4.3 Data Processing Engine (Compute Engines)
 
-- batch processing: pyspark
+- batch processing: pyspark, spark, dbt(sql a full)
 - real time processing: kafka/confluent
 
 
