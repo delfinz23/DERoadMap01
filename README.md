@@ -90,5 +90,6 @@ Datos Adicionales:
 * Apache Spark reemplaza a Map Reduce
 * Los que apuestan por Delta Lake ofrecen transacciones ACID para sus data lakes.
 * S3 es la evolucion de Apache Hadoop
-* Opcion recomendada para diseñar mapas graficos de plataformas de datos
+* Opcion recomendada para diseñar mapas graficos de plataformas de datos: Holori
+  https://medium.com/@alexandre_43174/the-top-10-cloud-infrastructure-diagramming-tools-a51a3896a160
 
