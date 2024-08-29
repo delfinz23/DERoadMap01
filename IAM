@@ -1,8 +1,10 @@
 # Gestionn de Identidad y Accesos (IAM)
 
-Ver tutoriales en YouTube puede ser un buen punto de partida para obtener una visión general y familiarizarte con los pasos básicos para implementar Keycloak en AWS. Sin embargo, para una implementación exitosa y ajustada a tus necesidades, te recomiendo combinar varias fuentes de aprendizaje y enfoques:
+Ver tutoriales en YouTube puede ser un buen punto de partida para obtener una visión general 
+y familiarizarte con los pasos básicos para implementar Keycloak en AWS. Sin embargo, para una implementación exitosa 
+y ajustada a tus necesidades, te recomiendo combinar varias fuentes de aprendizaje y enfoques:
 
-### **Recomendaciones para Implementar Keycloak en AWS:**
+# **Recomendaciones para Implementar Keycloak en AWS:**
 
 1. **Tutoriales en YouTube:**
    - **Pros**: Visualizar los pasos te ayudará a comprender mejor la configuración inicial y algunos detalles prácticos.
