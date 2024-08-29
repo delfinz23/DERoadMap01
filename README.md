@@ -50,6 +50,7 @@ ER Modeling, or Dimension Modelling such as understanding fact and dimension tab
 
 - batch processing: pyspark, spark, dbt(sql a full)
 - real time processing: kafka/confluent
+- dremio, snowflake, databricks
 
 
 4.4 Data Pipeline(Workflow Orchestration)
